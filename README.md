@@ -11,9 +11,6 @@
   <a href="mailto:urjasvisuthar@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-ffdddd?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/BlackGoku36">
-    <img alt="profile views" src="https://komarev.com/ghpvc/?username=BlackGoku36&label=Profile%20views&color=0e75b6&style=flat">
-  </a>
 </p>
 
 - 🔭 I’m currently working on my projects
