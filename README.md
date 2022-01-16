@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning graphics programming and digital art
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: I open my eyes when I wake up!
 
 <h3 align="center">Languages</h3>
